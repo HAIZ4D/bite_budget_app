@@ -1,6 +1,10 @@
-# project_ai_latest
+# Bite Budget Mobile App
 
-A new Flutter project.
+Allow user to manage their money wisely on buying food
+- Detect nearest restaurant and groceries store
+- App give list of meals and groceries based on user budget
+- AI generate meal planner with nutrition description
+- AI generate bugdet recipes
 
 ## Getting Started
 
