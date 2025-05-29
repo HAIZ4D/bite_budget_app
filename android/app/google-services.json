@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491953020724",
+    "project_id": "smartbudgetplanner-54267",
+    "storage_bucket": "smartbudgetplanner-54267.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491953020724:android:e6bae31b8c9091c86d4f61",
+        "android_client_info": {
+          "package_name": "com.example.project_ai_latest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk358P-vbE-wgCpzMIuwFjGvuzip461AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
